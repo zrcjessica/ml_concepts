@@ -3,7 +3,9 @@
 A collection of Jupyter notebooks walking through various machine learning concepts, including:
 
 - [Generalized Linear Models](https://github.com/zrcjessica/ml_concepts/blob/main/GLM_tutorial.ipynb)
-- [Maximum Likelihood Estimation](https://github.com/zrcjessica/ml_concepts/blob/main/MLE_tutorial.ipynb)
+- Optimization
+  - [Maximum Likelihood Estimation](https://github.com/zrcjessica/ml_concepts/blob/main/MLE_tutorial.ipynb)
+  - [Gradient descent](https://github.com/zrcjessica/ml_concepts/blob/main/gradient_descent.ipynb)
 - [Ordinary Least Squares](https://github.com/zrcjessica/ml_concepts/blob/main/OLS_tutorial.ipynb)
 - [K-nearest neighbors algorithm](https://github.com/zrcjessica/ml_concepts/blob/main/knn_tutorial.ipynb)
 - [p-values](https://github.com/zrcjessica/ml_concepts/blob/main/p-values.ipynb), and why they're uniformly distributed under the null hypothesis
